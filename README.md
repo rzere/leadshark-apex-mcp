@@ -1,6 +1,6 @@
 # LeadShark Apex: LinkedIn MCP Server
 
-LeadShark Apex is a hosted, remote MCP server for LinkedIn automation. Connect it to Claude, Cursor, ChatGPT or any MCP client and let your agent run comment-to-DM automations, publish lead magnets, work your Leadbox inbox, schedule posts and read your analytics, all inside your own LinkedIn activity limits.
+[LeadShark Apex](https://www.leadshark.io/linkedin-mcp-server) is a hosted, remote MCP server for LinkedIn automation. Connect it to Claude, Cursor, ChatGPT or any MCP client and let your agent run comment-to-DM automations, publish lead magnets, work your Leadbox inbox, schedule posts and read your analytics, all inside your own LinkedIn activity limits.
 
 - **Endpoint:** `https://apex.leadshark.io/mcp`
 - **Transport:** Streamable HTTP

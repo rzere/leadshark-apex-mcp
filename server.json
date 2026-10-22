@@ -4,7 +4,7 @@
   "title": "LeadShark Apex: LinkedIn MCP",
   "description": "LinkedIn MCP with 47 tools: post, comment, DM and run comment-to-DM automations inside your limits.",
   "version": "1.0.0",
-  "websiteUrl": "https://leadshark.io/linkedin-mcp-server",
+  "websiteUrl": "https://www.leadshark.io/linkedin-mcp-server",
   "remotes": [
     {
       "type": "streamable-http",
