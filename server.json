@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.leadshark/apex",
+  "title": "LeadShark Apex: LinkedIn MCP",
+  "description": "LinkedIn MCP with 47 tools: post, comment, DM and run comment-to-DM automations inside your limits.",
+  "version": "1.0.0",
+  "websiteUrl": "https://leadshark.io/linkedin-mcp-server",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://apex.leadshark.io/mcp"
+    }
+  ]
+}
